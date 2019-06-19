@@ -1,0 +1,27 @@
+html {
+    background-color: rgba(0, 255, 255, 0.514);
+}
+
+h1 {
+    background-color: rgb(251, 255, 0);
+color: black
+}
+
+h2 {
+    background-color: rgb(0, 255, 34);
+    color: rgb(250, 17, 17)
+}
+
+p1 {
+    background-color: rgba(0, 26, 255, 0.61);
+    color: rgb(22, 95, 22)
+}
+
+p2 {
+    background-color: rgba(255, 51, 0, 0.425);
+    color: rgb(76, 32, 180)
+}
+
+ul{
+    background-color: rgba(225, 0, 255, 0.486);
+}
