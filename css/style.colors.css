@@ -1,0 +1,17 @@
+/* Style kolorów czcionki */
+h1{
+    color: black;
+}
+h2{
+    color: rgb(250, 17, 17);
+}
+.paragraf-1{
+    color: rgb(22, 95, 22);
+}
+
+.paragraf-2{
+    color: rgb(86, 65, 134);
+}
+.li-color{
+    color: rgb(203, 247, 44);
+}
